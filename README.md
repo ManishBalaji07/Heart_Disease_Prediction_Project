@@ -5,10 +5,12 @@ This project aims to provide a secure framework for managing sensitive data tran
 
 ## Skills Covered
 
-- Python
+- Programming Language: Python
 - Tools: Arduino, Heart Rate Sensor, Pytest, Jupyter Notebook
-- ML Algorithms: Linear Regression and K-Nearest Neighbors
-- Testing Performed for this project.
+- ML Algorithms: Linear Regression, K-Nearest Neighbors
+- ML Techniques and Approaches: Implemented various machine learning techniques and approaches.
+- Achieved an accuracy of 87%.
+- Testing: Comprehensive testing was performed for this project.
 
 ## Project Deployment
 
