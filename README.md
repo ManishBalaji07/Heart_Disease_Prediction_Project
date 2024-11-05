@@ -1,4 +1,4 @@
-# Heart Disease Prediction Using ML and Heart Rate Sensor
+# Heart Disease Prediction Project
 
 ## Project Overview
 This project aims to provide a secure framework for managing sensitive data transactions using blockchain and cryptographic methods, including SHA and AES algorithms, to ensure data confidentiality and integrity across its lifecycle. Developed with technologies such as Java (JSP/Servlets), JavaScript, HTML, CSS, Eclipse, and MySQL, it incorporates features like secure access, file management, and encryption to protect sensitive information effectively.
