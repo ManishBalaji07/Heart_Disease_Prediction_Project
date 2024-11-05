@@ -7,6 +7,7 @@ This project aims to predict heart disease risk by using Python-based machine le
 
 - Programming Language: Python
 - Tools: Arduino, Heart Rate Sensor, Pytest, Jupyter Notebook
+- Arduino Programming Language: C++ is used for programming the Arduino.
 - ML Algorithms: Linear Regression, K-Nearest Neighbors
 - ML Techniques and Approaches: Implemented various machine learning techniques and approaches.
 - Achieved an accuracy of 87%.
