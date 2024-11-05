@@ -5,11 +5,9 @@ This project aims to provide a secure framework for managing sensitive data tran
 
 ## Skills Covered
 
-- Frontend: HTML, CSS, JavaScript.
-- Backend: Java (JSP/Servlets).
-- Database: MYSQL.
-- Framework: Eclipse.
-- Blockchain techniques and algorithms.
+- Python
+- Tools: Arduino, Heart Rate Sensor, Pytest, Jupyter Notebook
+- ML Algorithms: Linear Regression and K-Nearest Neighbors
 - Testing Performed for this project.
 
 ## Project Deployment
